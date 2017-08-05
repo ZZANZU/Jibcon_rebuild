@@ -9,7 +9,7 @@ import android.support.v7.app.AppCompatActivity;
  * Created by user on 2017-08-06.
  */
 
-public class IntroActivity extends AppCompatActivity {
+public class IntroActivity extends BaseActivity {
     private Handler mHandler;
 
     @Override
