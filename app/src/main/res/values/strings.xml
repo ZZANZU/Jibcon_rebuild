@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jibcon</string>
+
+    <!-- intro string -->
+    <string name="intro_text">처음 만나는 스마트 홈</string>
+
+
+</resources>
